@@ -13,7 +13,7 @@
 ## 🤔  What's On the Brain 🧠 
 * 🔭 Building scalable, resilient, & reliable production grade MLOps platform;
 * ✅ Creating courses, & blogs to teach MLOps best practices & architectures;
-* ✅ Contributing thought leadership around applied ML through organizations like ScreenPoint Medical;
+* ✅ Contributing thought leadership around applied ML through organizations like ING Bank;
 * ✅ Hacking projects (both open-source & personal) using best-of-breed tools & practices from software engineering, DevOps, data engineering, & machine learning using Python, Rust, Go, SQL, AWS, GCP, Docker, Kubernetes, etc.
 * ✅ Growing as an effective engineer in Python, Rust, Go, C++, Java, Scala
 
